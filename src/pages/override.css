@@ -1,0 +1,128 @@
+.show-file-table {
+  border-collapse:collapse;
+  width: 100%;
+  
+  background-color: white;
+}
+.show-file-table h1{
+  size: 2cm;
+  color: black;
+  font-weight: '900';
+}
+.show-file-table h3{
+  color: #008b8b;
+}
+.show-file-table h2{
+  
+  color: rgb(95, 92, 92);
+  font-weight: bold;
+}
+.show-file-table th{
+  padding: 10px;
+  text-align: middle;
+  color: white;
+  font-weight: normal;
+   font-size: '14px';
+   color: '#6ebeb0' ;
+
+}
+.bg-red-500
+{
+  background-color:  rgb(110,190,176);
+}
+.prestation-heading
+{
+
+  color:red;
+}
+.forgot-psw 
+{
+  font-size: medium;
+  font-weight:bold;
+  color: rgb(110,190,176);;
+}
+.show-file-table td {
+  
+  padding: 10px;
+  text-align: middle;
+  color: black;
+  font-weight: normal;
+   font-size: '14px';
+   color: '#6ebeb0' ;
+}
+
+.show-file-table th {
+  background-color: rgb(110,190,176);
+}
+.background-sidebar 
+{
+  background-color: white;
+}
+.description-cell {
+  max-width: 400px; /* Adjust the width as needed */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  margin-Bottom: '30px',
+}
+.Attestation-cell {
+ /* Adjust the width as needed */
+ color: rgb(51, 113, 103);;
+ font-weight: bold;
+ font-size: '300px';
+ margin-left: 0.5cm;
+  margin-Bottom: '120px',
+  
+}
+.markerTextStyle  {
+  position: 'relative';
+  display: 'inline-block';
+  padding: '0.5em';
+  margin-left: '0.5em';
+  columns: red;
+};
+.show-file-table tr:first-child td {
+  color: #030303;
+  text-align: middle;
+  background-color: white;
+  
+}
+.show-file-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+  text-align: middle;
+}
+.custom-heading {
+  font-size: 1.25rem; /* Adjust the font size to your desired value */
+  font-weight: bold; /* Adjust the font weight if needed */
+  margin-left: 0.5cm;
+}
+.align-top {
+  vertical-align: top;
+}
+.record-heading
+{
+  margin-left: 0.5cm;
+}
+
+.show-file-table tr:last-child td {
+  border-bottom: 4px solid rgb(247, 245, 245,1.2);
+  text-align: middle;
+}
+.container {
+
+  background-color: white;
+}
+.container-immg {
+  overflow: auto;
+}
+.container-immg h1 {
+  
+  color:  rgb(70, 208, 162);
+  
+}
+.container-immg img {
+  
+  float: left;
+  margin-right: 49px;
+}
